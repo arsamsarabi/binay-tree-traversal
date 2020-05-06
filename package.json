@@ -1,0 +1,12 @@
+{
+  "name": "binary-tree",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/arsamsarabi/binay-tree-traversal.git",
+  "author": "Arsam Sarabi <arsamsarabi@me.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
